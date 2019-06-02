@@ -7,5 +7,6 @@ int main(){
 	cin >> a;
 	cout << "\nEnter b:";
 	cin >> b;
+	cout << "\na+b=" << a+b;
 	return 0;
 }
